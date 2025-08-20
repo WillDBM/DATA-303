@@ -28,6 +28,9 @@ By the end of the course, students will be able to:
 ---
 
 ## 📂 Repository Structure
+- **/InClass/**
+    - **/Notes/** - Notes/Code done in class
+    - **/Readings/** - Readings covered in class
 
 ---
 
